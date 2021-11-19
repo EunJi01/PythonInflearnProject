@@ -13,7 +13,6 @@
 | **2회** | starcraft 구현 | Complete |  |  | **2021.10.10** |
 | **3회** | exception 공부 | Complete |  |  | **2021.10.10** |
 | **4회** | exception 응용 연습 | Complete |  |  | **2021.10.10** |
-| **5회** | 기본 정리 | Complete |  |  | **2021.11.19** |
 
 </br>
 
